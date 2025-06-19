@@ -1,2 +1,3 @@
 # NJU-CS
-Some notes of classes during NJU Computer Science
+
+2025春创立，整理一些南京大学计算机科学与技术专业的课程资源
